@@ -13,7 +13,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Product preview card screenshot](preview-mobile.png) (preview-desktop.png)
+![Product preview card screenshot](preview-mobile.png)
+![Product preview card screenshot](preview-desktop.png)
 
 ### Links
 
